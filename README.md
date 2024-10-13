@@ -15,7 +15,7 @@ I'm developing new tools and extensions to solve every problem that I figure out
 
 ## Repositories overview
 ### 💿 Digital Forensics
-- [Malicious stuffs](https://github.com/RaffaDNDM/OSINT)
+- [Digital Forensics](https://github.com/RaffaDNDM/Digital-Forensics)
 
 ### ☠️ Malicious Stuffs
 - [Malicious stuffs](https://github.com/RaffaDNDM/Malicious_stuffs)
