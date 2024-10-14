@@ -63,3 +63,7 @@ Click on the language to filter all the repositories based on the programming la
 [<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />](https://github.com/search?q=owner%3ARaffaDNDM+language%3APython+&type=repository)
 [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](https://github.com/search?q=owner%3ARaffaDNDM+language%3AJavascript+&type=repositories)
 [<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />](https://github.com/search?q=owner%3ARaffaDNDM+language%3APHP+&type=repositories)
+
+### Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&size_weight=0&count_weight=1&layout=donut&hide=html,yara,makefile&theme=dark&text_color=f0f3f5&line_height=29)
+![Stats](https://github-readme-stats.vercel.app/api?username=RaffaDNDM&show_icons=true&theme=dark&line_height=29)
