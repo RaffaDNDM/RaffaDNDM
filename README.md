@@ -12,6 +12,9 @@ I'm developing new tools and extensions to solve every problem that I figure out
 ### 💿 Digital Forensics
 - [Digital Forensics](https://github.com/RaffaDNDM/Digital-Forensics)
 
+### 🖥 External PT
+- [External PT](https://github.com/RaffaDNDM/External-PT)
+
 ### ☠️ Malicious Stuffs
 - [Malicious stuffs](https://github.com/RaffaDNDM/Malicious-Stuffs)
 
@@ -25,7 +28,7 @@ I'm developing new tools and extensions to solve every problem that I figure out
 - [OSINT](https://github.com/RaffaDNDM/OSINT)
 
 ### 📋 Utilities
-- [PT Utilities](https://github.com/RaffaDNDM/PT-Utilities)
+- [Report Utilities](https://github.com/RaffaDNDM/Report-Utilities)
 
 ### 🌐 Web Application Penetration Test
 - [Burp extensions](https://github.com/RaffaDNDM/Burp-extensions)
