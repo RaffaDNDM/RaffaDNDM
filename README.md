@@ -66,7 +66,7 @@ Click on the language to filter all the repositories based on the programming la
 
 ### Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html,yara,makefile,jupyter%20notebook&&layout=donut)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true)
 
 ### Pinned repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics)](https://github.com/RaffaDNDM/Digital-Forensics)
