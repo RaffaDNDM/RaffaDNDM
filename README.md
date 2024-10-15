@@ -65,5 +65,14 @@ Click on the language to filter all the repositories based on the programming la
 [<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />](https://github.com/search?q=owner%3ARaffaDNDM+language%3APHP+&type=repositories)
 
 ### Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&size_weight=0&count_weight=1&layout=donut&hide=html,yara,makefile&theme=dark&text_color=f0f3f5&line_height=29)
-![Stats](https://github-readme-stats.vercel.app/api?username=RaffaDNDM&show_icons=true&theme=dark&line_height=29)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html,yara,makefile,jupyter%20notebook&&layout=donut)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile)
+
+### Pinned repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics)](https://github.com/RaffaDNDM/Digital-Forensics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs)](https://github.com/RaffaDNDM/Malicious-Stuffs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM)](https://github.com/RaffaDNDM/MitM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=OSINT)](https://github.com/RaffaDNDM/OSINT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Pwndoc-Utilities)](https://github.com/RaffaDNDM/Pwndoc-Utilities)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions)](https://github.com/RaffaDNDM/Burp-extensions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT)](https://github.com/RaffaDNDM/WAPT)
