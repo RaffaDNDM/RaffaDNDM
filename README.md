@@ -100,14 +100,14 @@ I'm developing new tools and extensions to solve every problem that I figure out
 ### 📋 Utilities
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report-Utilities&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report-Utilities&theme=light"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report-Utilities&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=light" />
 </picture>
 
 ### 🌐 Web Application Penetration Test
@@ -175,4 +175,16 @@ Click on the language to filter all the repositories based on the programming la
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=dark" media="(prefers-color-scheme: dark)" >
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=light" media="(prefers-color-scheme: light)" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html,yara,makefile,jupyter%20notebook&layout=donut&theme=light" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light" />
 </picture>
