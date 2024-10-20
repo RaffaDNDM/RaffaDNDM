@@ -7,32 +7,132 @@ I'm developing new tools and extensions to solve every problem that I figure out
 
 ## Repositories overview
 ### 🌲 AD
-- [AD](https://github.com/RaffaDNDM/AD)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=light" />
+</picture>
 
 ### 💿 Digital Forensics
-- [Digital Forensics](https://github.com/RaffaDNDM/Digital-Forensics)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=light" />
+</picture>
 
 ### 🖥 External PT
-- [External PT](https://github.com/RaffaDNDM/External-PT)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=light" />
+</picture>
 
 ### ☠️ Malicious Stuffs
-- [Malicious stuffs](https://github.com/RaffaDNDM/Malicious-Stuffs)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=light" />
+</picture>
 
 ### 👨‍💻 Man-in-the-Middle
-- [MitM](https://github.com/RaffaDNDM/MitM)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=light" />
+</picture>
 
 ### 📱 Mobile Application Penetration Test
-- [MAPT](https://github.com/RaffaDNDM/MAPT)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=light" />
+</picture>
 
 ### 🔍 OSINT
-- [OSINT](https://github.com/RaffaDNDM/OSINT)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=OSINT&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=OSINT&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=OSINT&theme=light" />
+</picture>
 
 ### 📋 Utilities
-- [Report Utilities](https://github.com/RaffaDNDM/Report-Utilities)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report-Utilities&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report-Utilities&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report-Utilities&theme=light" />
+</picture>
 
 ### 🌐 Web Application Penetration Test
-- [Burp extensions](https://github.com/RaffaDNDM/Burp-extensions)
-- [WAPT](https://github.com/RaffaDNDM/WAPT)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=light" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=light" />
+</picture>
 
 ---
 
@@ -72,34 +172,7 @@ Click on the language to filter all the repositories based on the programming la
 
 ### Stats
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html,yara,makefile,jupyter%20notebook&layout=donut&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html,yara,makefile,jupyter%20notebook&layout=donut&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=dark" media="(prefers-color-scheme: dark)" >
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=light" media="(prefers-color-scheme: light)" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html,yara,makefile,jupyter%20notebook&layout=donut&theme=light" />
 </picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light" />
-</picture>
-
-### Pinned repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics)](https://github.com/RaffaDNDM/Digital-Forensics)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT)](https://github.com/RaffaDNDM/MAPT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs)](https://github.com/RaffaDNDM/Malicious-Stuffs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM)](https://github.com/RaffaDNDM/MitM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=OSINT)](https://github.com/RaffaDNDM/OSINT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions)](https://github.com/RaffaDNDM/Burp-extensions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT)](https://github.com/RaffaDNDM/WAPT)
