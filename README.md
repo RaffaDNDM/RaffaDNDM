@@ -7,6 +7,7 @@ I'm developing new tools and extensions to solve every problem that I figure out
 
 ## Repositories overview
 ### 🌲 AD
+<a href="https://github.com/RaffaDNDM/AD">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=dark"
@@ -18,8 +19,10 @@ I'm developing new tools and extensions to solve every problem that I figure out
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=light" />
 </picture>
+</a>
 
 ### 💿 Digital Forensics
+<a href="https://github.com/RaffaDNDM/Digital-Forensics">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=dark"
@@ -31,8 +34,10 @@ I'm developing new tools and extensions to solve every problem that I figure out
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=light" />
 </picture>
+</a>
 
 ### 🖥 External PT
+<a href="https://github.com/RaffaDNDM/External-PT">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=dark"
@@ -44,8 +49,10 @@ I'm developing new tools and extensions to solve every problem that I figure out
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=light" />
 </picture>
+</a>
 
 ### ☠️ Malicious Stuffs
+<a href="https://github.com/RaffaDNDM/Malicious-Stuffs">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=dark"
@@ -57,8 +64,10 @@ I'm developing new tools and extensions to solve every problem that I figure out
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=light" />
 </picture>
+</a>
 
 ### 👨‍💻 Man-in-the-Middle
+<a href="https://github.com/RaffaDNDM/MitM">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=dark"
@@ -70,8 +79,10 @@ I'm developing new tools and extensions to solve every problem that I figure out
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=light" />
 </picture>
+</a>
 
 ### 📱 Mobile Application Penetration Test
+<a href="https://github.com/RaffaDNDM/MAPT">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=dark"
@@ -83,8 +94,10 @@ I'm developing new tools and extensions to solve every problem that I figure out
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=light" />
 </picture>
+</a>
 
 ### 🔍 OSINT
+<a href="https://github.com/RaffaDNDM/OSINT">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=OSINT&theme=dark"
@@ -96,8 +109,10 @@ I'm developing new tools and extensions to solve every problem that I figure out
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=OSINT&theme=light" />
 </picture>
+</a>
 
 ### 📋 Utilities
+<a href="https://github.com/RaffaDNDM/Report-Utilities">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=dark"
@@ -109,8 +124,10 @@ I'm developing new tools and extensions to solve every problem that I figure out
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=light" />
 </picture>
+</a>
 
 ### 🌐 Web Application Penetration Test
+<a href="https://github.com/RaffaDNDM/Burp-extensions">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=dark"
@@ -122,6 +139,21 @@ I'm developing new tools and extensions to solve every problem that I figure out
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=light" />
 </picture>
+</a>
+<a href="https://github.com/RaffaDNDM/Browser-Extensions">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=light" />
+</picture>
+</a>
+<a href="https://github.com/RaffaDNDM/WAPT">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=dark"
@@ -133,6 +165,35 @@ I'm developing new tools and extensions to solve every problem that I figure out
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=light" />
 </picture>
+</a>
+
+###  Windows Exploitation
+<a href="https://github.com/RaffaDNDM/Browser-Extensions">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=light" />
+</picture>
+</a>
+<a href="https://github.com/RaffaDNDM/WAPT">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=light" />
+</picture>
+</a>
 
 ---
 
