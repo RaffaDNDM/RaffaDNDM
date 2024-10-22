@@ -7,19 +7,7 @@ I'm developing new tools and extensions to solve every problem that I figure out
 
 ## Repositories overview
 ### 🌲 AD
-<a href="https://github.com/RaffaDNDM/AD">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=light" />
-</picture>
-</a>
+
 
 ### 💿 Digital Forensics
 <a href="https://github.com/RaffaDNDM/Digital-Forensics">
