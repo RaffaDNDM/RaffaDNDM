@@ -10,14 +10,14 @@ I'm developing new tools and extensions to solve every problem that I figure out
 <a href="https://github.com/RaffaDNDM/AD">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=AD&theme=light&token=0" />
 </picture>
 </a>
 
@@ -25,14 +25,14 @@ I'm developing new tools and extensions to solve every problem that I figure out
 <a href="https://github.com/RaffaDNDM/Digital-Forensics">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Digital-Forensics&theme=light&token=0" />
 </picture>
 </a>
 
@@ -40,14 +40,14 @@ I'm developing new tools and extensions to solve every problem that I figure out
 <a href="https://github.com/RaffaDNDM/External-PT">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=External-PT&theme=light&token=0" />
 </picture>
 </a>
 
@@ -55,14 +55,14 @@ I'm developing new tools and extensions to solve every problem that I figure out
 <a href="https://github.com/RaffaDNDM/Malicious-Stuffs">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Malicious-Stuffs&theme=light&token=0" />
 </picture>
 </a>
 
@@ -70,14 +70,14 @@ I'm developing new tools and extensions to solve every problem that I figure out
 <a href="https://github.com/RaffaDNDM/MitM">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MitM&theme=light&token=0" />
 </picture>
 </a>
 
@@ -85,14 +85,14 @@ I'm developing new tools and extensions to solve every problem that I figure out
 <a href="https://github.com/RaffaDNDM/MAPT">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=MAPT&theme=light&token=0" />
 </picture>
 </a>
 
@@ -115,14 +115,14 @@ I'm developing new tools and extensions to solve every problem that I figure out
 <a href="https://github.com/RaffaDNDM/Report-Utilities">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Report%2dUtilities&theme=light&token=0" />
 </picture>
 </a>
 
@@ -130,40 +130,40 @@ I'm developing new tools and extensions to solve every problem that I figure out
 <a href="https://github.com/RaffaDNDM/Burp-extensions">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Burp-extensions&theme=light&token=0" />
 </picture>
 </a>
 <a href="https://github.com/RaffaDNDM/Browser-Extensions">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Browser-Extensions&theme=light&token=0" />
 </picture>
 </a>
 <a href="https://github.com/RaffaDNDM/WAPT">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=WAPT&theme=light&token=0" />
 </picture>
 </a>
 
@@ -171,14 +171,14 @@ I'm developing new tools and extensions to solve every problem that I figure out
 <a href="https://github.com/RaffaDNDM/Windows-Exploit-Development">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=Windows-Exploit-Development&repo=WAPT&theme=dark&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=Windows-Exploit-Development&repo=WAPT&theme=dark&token=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Windows-Exploit-Development&theme=light&cache_seconds=0"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Windows-Exploit-Development&theme=light&token=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Windows-Exploit-Development&theme=light&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaffaDNDM&repo=Windows-Exploit-Development&theme=light&token=0" />
 </picture>
 </a>
 
@@ -220,19 +220,19 @@ Click on the language to filter all the repositories based on the programming la
 
 ### Stats
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=dark" media="(prefers-color-scheme: dark)" >
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=light" media="(prefers-color-scheme: light)" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html,yara,makefile,jupyter%20notebook&layout=donut&theme=light" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=dark&token=1" media="(prefers-color-scheme: dark)" >
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=light&token=1" media="(prefers-color-scheme: light)" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html,yara,makefile,jupyter%20notebook&layout=donut&theme=light&token=1" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=dark&token=1"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light"
+    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light&token=1"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light&token=1" />
 </picture>
