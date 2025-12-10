@@ -16,18 +16,18 @@ Click on the language to filter all the repositories based on the programming la
 
 ### Stats
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=dark&token=1" media="(prefers-color-scheme: dark)" >
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=light&token=1" media="(prefers-color-scheme: light)" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html,yara,makefile,jupyter%20notebook&layout=donut&theme=light&token=1" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=dark&token=2" media="(prefers-color-scheme: dark)" >
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html%2Cyara%2Cmakefile%2Cjupyter%20notebook&layout=donut&theme=light&token=2" media="(prefers-color-scheme: light)" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaDNDM&hide_border=true&hide=html,yara,makefile,jupyter%20notebook&layout=donut&theme=light&token=2" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=dark&token=1"
+    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=dark&token=3"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light&token=1"
+    srcset="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light&token=3"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=RaffaDNDM&hide_border=true&rank_icon=percentile&include_all_commits=true&theme=light&token=1" /> -->
